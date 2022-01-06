@@ -1,1 +1,4 @@
 # odin-recipes
+(12/12/2021) I will practice my HTML skills and build a basic recipe website. By the end of this project, I hope to demonstrate my understanding of lists (both unordered and ordered), links (absolute and relative), and images.
+
+(12/13/2021) I have created a website that links the user to 3 different recipe links - crepes, meatloaf, and chocolate fudge. Each recipe contains the same structure. From top-down, the main header, an image of the end product followed by a short description, an unordered list for the ingredients, and an ordered list for the procedural steps. This project really helped engrave the "boiler-plate" formatting into my brain and allowed me to become more familiar with referencing links (to both other locations and images).
